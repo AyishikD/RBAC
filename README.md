@@ -5,7 +5,8 @@ This is a **Role-Based Access Control (RBAC) Todo App** built using **Node.js**,
 ---
 ## API TESTING RESULTS
 You can view the complete Postman documentation for testing the API at the link below:
-[Postman API Documentation]([https://postman.com/your-generated-link](https://www.postman.com/mission-geologist-4118891/api-tests/overview))
+
+[Postman API Documentation](https://www.postman.com/mission-geologist-4118891/api-tests/overview)
 
 ## Features
 
