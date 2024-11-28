@@ -1,0 +1,14 @@
+{
+    "name": "rbac-todo-app",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "bcrypt": "^5.1.1",
+        "dotenv": "^16.0.4",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.0"
+    }
+}
