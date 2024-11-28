@@ -41,7 +41,7 @@ You can view the complete Postman documentation for testing the API at the link 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/rbac-todo-app.git
-   cd rbac-todo-app
+   cd RBAC
    cd backend
    ```
 
